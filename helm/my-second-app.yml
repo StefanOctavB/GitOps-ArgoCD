@@ -9,7 +9,7 @@ spec:
     project: default
     source:
         path: helm
-        repoURL: other-Repo-url-to-be-provided
+        repoURL: https://github.com/vfarcic/devops-paradox.git
         targetRevision: HEAD
         helm:
             values: |
